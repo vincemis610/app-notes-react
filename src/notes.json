@@ -5,18 +5,6 @@
             "created": "Vince",
             "description": "Cuerpo de la nota",
             "priority": "low"
-        },
-        {
-            "title": "Apuntes",
-            "created": "Jhon",
-            "description": "Lorem impsum...",
-            "priority": "medium"
-        },
-        {
-            "title": "Titulo de la nota",
-            "created": "Deborah",
-            "description": "Lorem impsum...",
-            "priority": "hight"
         }
     ]
 }
